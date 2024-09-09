@@ -12,9 +12,9 @@ import (
 	"net/http"
 	"os"
 
+	"github.com/CeskyPane/oapi-codegen/v2/examples/petstore-expanded/gorilla/api"
 	"github.com/gorilla/mux"
 	middleware "github.com/oapi-codegen/nethttp-middleware"
-	"github.com/oapi-codegen/oapi-codegen/v2/examples/petstore-expanded/gorilla/api"
 )
 
 func main() {

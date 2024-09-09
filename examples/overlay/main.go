@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
+	"github.com/CeskyPane/oapi-codegen/v2/examples/overlay/api"
 	"github.com/gorilla/mux"
-	"github.com/oapi-codegen/oapi-codegen/v2/examples/overlay/api"
 )
 
 func main() {

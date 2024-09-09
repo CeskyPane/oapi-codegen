@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
+	"github.com/CeskyPane/oapi-codegen/v2/examples/minimal-server/chi/api"
 	"github.com/go-chi/chi/v5"
-	"github.com/oapi-codegen/oapi-codegen/v2/examples/minimal-server/chi/api"
 )
 
 func main() {
